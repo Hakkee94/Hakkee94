@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 📫 How to reach me: agasyandavid94@gmail.com
 
 <!---
